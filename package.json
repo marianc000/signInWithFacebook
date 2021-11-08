@@ -1,0 +1,15 @@
+{
+  "name": "facebookpuppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "node facebook.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}

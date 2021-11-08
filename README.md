@@ -1,4 +1,4 @@
-# Automatically sign in with Google using Puppeteer
-Log in with Google to Medium
+# Programmatically Sign in with Facebook into a web site
+The websites accepting Google identity, which is hard to automate, also accept Facebook identity which poses no problem.
 
-Sample code for post https://marian-caikovski.medium.com/automatically-sign-in-with-google-using-puppeteer-cc2cc656da1c about Google login with Puppeteer
+Sample code for post https://marian-caikovski.medium.com/programmatically-sign-in-with-facebook-into-a-web-site-c433ea7c4c15 about Facebook login with Puppeteer
